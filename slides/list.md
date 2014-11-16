@@ -1,4 +1,4 @@
-## Active Jobが対応しているバックエンドシステムの一覧
+## Active Jobが対応しているキューイングシステムの一覧
 
 |                   | Async | Queues | Delayed   | Priorities | Timeout | Retries |
 |-------------------|-------|--------|-----------|------------|---------|---------|
@@ -13,4 +13,4 @@
 | SuckerPunch       | Yes   | Yes    | No        | No         | No      | No      |
 
 
-詳細は[API guide](http://edgeapi.rubyonrails.org/classes/ActiveJob/QueueAdapters.html)参照
+詳細は[Rails API guide](http://edgeapi.rubyonrails.org/classes/ActiveJob/QueueAdapters.html)参照
