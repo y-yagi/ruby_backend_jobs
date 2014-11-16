@@ -1,3 +1,3 @@
-## Ruby Backend jobs memo
+## Ruby queuing system memo
 
 @y-yagi

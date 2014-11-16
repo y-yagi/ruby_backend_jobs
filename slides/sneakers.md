@@ -1,6 +1,5 @@
 ### [Sneakers](https://github.com/jondot/sneakers)
 
 * バックエンドはredis
-* RabbitMQ ベースのフレームワーク
-  * [RabbitMQ](http://ja.wikipedia.org/wiki/RabbitMQ)
+* [RabbitMQ](http://ja.wikipedia.org/wiki/RabbitMQ) ベースのフレームワーク
 * high-performance 及び 0-maintenanceを目標にしている
