@@ -1,0 +1,3 @@
+## 苦労したgem
+
+# activeadmin
